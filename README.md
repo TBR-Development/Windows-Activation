@@ -28,6 +28,6 @@ This repo contains a list of Windows 10 activation keys collected from many diff
 
 ---
 
-**Windows 10 All Edition Activator**
+**KMS Activator**
 
  - [Windows 10 All Edition Activator](./Activator/Windows10Activator.bat)
