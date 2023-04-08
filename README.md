@@ -25,3 +25,9 @@ This repo contains a list of Windows 10 activation keys collected from many diff
  **Country Specific Activation Keys**
 
  - [Home CN](./Keys/Home/Country%20Specific/CN/keys.txt)
+
+---
+
+**Windows 10 All Edition Activator**
+
+ - [](./Activator/Windows10Activator.bat)
